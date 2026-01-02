@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import kv from "@/lib/kv";
 import { notFound } from "next/navigation";
 
